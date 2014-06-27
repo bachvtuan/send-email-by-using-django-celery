@@ -27,7 +27,7 @@ SENDER =     "sernder@yourdomain.com"
 EMAIL_USERNAME = "stmpuser@domain.com"
 EMAIL_PASSWORD = "smtppassword" 
 ```
-6. Run code by using 2 below commands( seperate in 2 window )
+6. Run code by using 2 below commands( seperate in 2 windows )
 
  ```
 python manage.py runserver
