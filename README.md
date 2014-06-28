@@ -22,9 +22,9 @@ sudo pip install redis
 5.  Next, you need input smtp in settings.py. I inputed dumy data like this.
 
  ```
-SMTP_SERVER = "your.stmpserver.domain"
-SENDER =     "sernder@yourdomain.com"
-EMAIL_USERNAME = "stmpuser@domain.com"
+SMTP_SERVER = "your.smtpserver.domain"
+SENDER =     "sender@yourdomain.com"
+EMAIL_USERNAME = "smtpuser@domain.com"
 EMAIL_PASSWORD = "smtppassword" 
 ```
 6. Run code by using 2 below commands( seperate in 2 windows )
